@@ -2,10 +2,10 @@
 Hivery Backend challenge
 
 
-#Getting Started
+# Getting Started
 This Paranuara API Code is developed and verified on Windows OS using Python and Django.
 
-#Prerequisites
+# Prerequisites
 Environment to verify the application should have:
 Windows OS
 Django 2.1.5
@@ -13,7 +13,7 @@ Python 3.7.1
 
 The target Environment should have the above.
 
-#Installing and running
+# Installing and running
 Connect to https://github.com/dasarihema/Paranuara and download Paranuara-master.zip
 
 Unzip Paranuara-master.zip using WinRAR or 7zip to the destination location.
