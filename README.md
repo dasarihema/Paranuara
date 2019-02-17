@@ -17,7 +17,9 @@ Connect to https://github.com/dasarihema/Paranuara and download Paranuara-master
 Unzip Paranuara-master.zip using WinRAR or 7zip to the destination location.
 (Considering unzip is done to the same Downloads folder)
 
-Change the directory to Paranuara-master folder which has "paranuara" project, "api" application and manage.py file that takes care of administrative tasks.
+Import the folder location into Django.
+
+Open command prompt,Change the directory to Paranuara-master folder which has "paranuara" project, "api" application and manage.py file that takes care of administrative tasks.
 This project uses django development server that comes with django by default.
 Run the project with manage.py file as follows:
 
